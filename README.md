@@ -4,11 +4,6 @@ Dirijidos a los alumnos de la cohort 9.
 
 En esta clase tuvimos el primer contacto con React, en donde vimos el uso de React sin Frameworks por parte de create react app y react con vite.
 
-
-# React + Vite
-
-1) Definir react:
-
 ## ¿Qué es React?
 React es una biblioteca de JavaScript de código abierto ampliamente utilizada para construir interfaces de usuario interactivas y dinámicas. Fue desarrollada por Facebook y se ha convertido en una de las herramientas más populares en el desarrollo web moderno. React se utiliza comúnmente para crear aplicaciones web de una sola página (SPA) y aplicaciones móviles nativas a través de React Native.
 
