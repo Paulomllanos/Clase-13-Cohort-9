@@ -35,36 +35,15 @@ Asegúrate de tener Node.js instalado en tu sistema antes de comenzar. Puedes de
 ### Crear un Proyecto de React con Vite
 Abre tu terminal y ejecuta el siguiente comando para crear un nuevo proyecto de React con Vite:
 
-bash
-Copy code
-npx create-vite my-react-app --template react
+Imagen instalación de React con vite
 Sustituye "my-react-app" con el nombre de tu proyecto deseado.
 
 Ingresa al directorio del proyecto:
 
-bash
-Copy code
-cd my-react-app
-Estructura de Archivos
+Imagen ingreso al directorio del proyecto
 Una vez que hayas creado tu proyecto, verás una estructura de archivos similar a la siguiente:
 
-plaintext
-Copy code
-my-react-app/
-├── node_modules/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── main.js
-│   ├── App.css
-│   ├── App.js
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-├── vite.config.js
-└── ...
+Imagen directorio
 El directorio public contiene archivos estáticos y tu archivo index.html, que es el punto de entrada de tu aplicación.
 
 El directorio src es donde colocarás tus archivos de código fuente de React.
@@ -74,9 +53,7 @@ El archivo vite.config.js es la configuración de Vite y se utiliza para persona
 ### Ejecutar la Aplicación
 Para ejecutar tu aplicación de React con Vite, simplemente ejecuta el siguiente comando en la terminal:
 
-bash
-Copy code
-npm run dev
+Imagen npm run dev
 Esto iniciará un servidor de desarrollo local y abrirá automáticamente tu aplicación en el navegador predeterminado. Cualquier cambio que realices en tu código se reflejará instantáneamente en el navegador sin necesidad de recargar la página.
 
 ### Personalización y Configuración Adicional
