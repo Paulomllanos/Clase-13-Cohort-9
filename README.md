@@ -28,15 +28,16 @@ React sigue un flujo de datos unidireccional, lo que significa que los datos flu
 5. Comunidad Activa y Ecosistema
 React cuenta con una comunidad activa y un amplio ecosistema de bibliotecas y herramientas complementarias que facilitan el desarrollo web moderno. Algunas de estas herramientas incluyen React Router para la gestión de rutas, Redux para la gestión del estado y numerosos componentes y bibliotecas de terceros.
 
-2) Instalar React:
+## Instalar React:
+  Ejemplo:
 
-3) Props:
+## Props:
 
 Las props son los atributos que recibe un componente cuando se escribe por medio de JSX y a las cuales el componente tiene acceso para poder inicializarlo, se puede decir que las props son el estado inicial del componente, esto quiere decir que se puede pasar propiedades entre componentes dentro de componentes y hacia otros componentes, ya que la composición otorga esta flexibilidad.
 
   Ejemplo:
 
-4) State:
+## State:
 
 El estado de un componente es similar a las props, pero en lugar de que el estado sea transferido al componente, el estado es privado y no es inmutable, por lo que un componente puede cambiar su estado dependiendo de las interacciones y funcionalidades internas del componente, por lo que es el mismo componente el que se encarga de manejar su propio estado.
 
@@ -46,10 +47,10 @@ Para poder asignar un estado a un componente, se asigna como cualquier otro atri
 
   Ejemplo:
 
-5) Operador ternario:
+## Operador ternario:
 
    Ejemplo:
 
-6) React Boostrap::
+## React Boostrap::
 
 
